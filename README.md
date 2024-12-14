@@ -15,4 +15,4 @@ LENGUAJE: Python
 
 
 
-(licenciada disculpe  GitHuB no me permitio subir las diapositivas a la nube, por ende no las subi )
+(licenciada disculpe  GitHuB no me permitio subir las diapositivas a la nube, por ende las subi con winrar )
