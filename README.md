@@ -10,3 +10,9 @@ Divertir al usuario y simular el juego clásico.
 Mejorar habilidades de programación con Python
 OBJETIVOS ESPECIFICOS:
 LENGUAJE: Python
+
+
+
+
+
+(licenciada disculpe  GitHuB no me permitio subir las diapositivas a la nube, por ende no las subi )
